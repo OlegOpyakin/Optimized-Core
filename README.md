@@ -1,4 +1,4 @@
-# Easy-Tensor-Compiler
+# Optimized-core
 
 ![Example](data/performance_comparison_log.png)
 
